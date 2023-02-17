@@ -1,0 +1,9 @@
+# file: ~/.gitignore_global
+.DS_Store
+.idea
+*.iml
+out
+META-INF
+*.class
+_pycache_
+*.pt
