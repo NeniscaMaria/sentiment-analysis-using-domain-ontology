@@ -5,5 +5,5 @@
 out
 META-INF
 *.class
-_pycache_
+__pycache__
 *.pt
